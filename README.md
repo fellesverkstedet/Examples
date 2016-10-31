@@ -4,5 +4,6 @@ An overview of different Fabrication tecniques available at Fellesverkstedet. Fo
 
 ## CNC Milling
 
-CNC milling offer an enourmous amount of possibilites. This grid shows vious techniques combining differnt milling bit geometery with differnt toolpath strategies:
+CNC milling offer an enourmous amount of possibilites. This grid shows vious techniques combining differnt [milling bit](https://en.wikipedia.org/wiki/Milling_cutter) geometry with different [toolpath](https://en.wikipedia.org/wiki/Numerical_control) strategies:
+
 ![CNC mill grid](./img/CNC-mill-example-grid.jpg)
